@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "http://localhost:3000/static/css/main.7ef272a7.chunk.css",
-    "main.js": "http://localhost:3000/static/js/main.9ad42745.chunk.js",
-    "main.js.map": "http://localhost:3000/static/js/main.9ad42745.chunk.js.map",
-    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.df3a0ffb.js",
-    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.df3a0ffb.js.map",
+    "main.js": "http://localhost:3000/static/js/main.352e0544.chunk.js",
+    "main.js.map": "http://localhost:3000/static/js/main.352e0544.chunk.js.map",
+    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.6b2e4910.js",
+    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.6b2e4910.js.map",
     "static/css/2.3c0b593e.chunk.css": "http://localhost:3000/static/css/2.3c0b593e.chunk.css",
-    "static/js/2.e89de98c.chunk.js": "http://localhost:3000/static/js/2.e89de98c.chunk.js",
-    "static/js/2.e89de98c.chunk.js.map": "http://localhost:3000/static/js/2.e89de98c.chunk.js.map",
-    "static/js/3.e1723848.chunk.js": "http://localhost:3000/static/js/3.e1723848.chunk.js",
-    "static/js/3.e1723848.chunk.js.map": "http://localhost:3000/static/js/3.e1723848.chunk.js.map",
+    "static/js/2.b82abc83.chunk.js": "http://localhost:3000/static/js/2.b82abc83.chunk.js",
+    "static/js/2.b82abc83.chunk.js.map": "http://localhost:3000/static/js/2.b82abc83.chunk.js.map",
+    "static/js/3.6eec584b.chunk.js": "http://localhost:3000/static/js/3.6eec584b.chunk.js",
+    "static/js/3.6eec584b.chunk.js.map": "http://localhost:3000/static/js/3.6eec584b.chunk.js.map",
     "index.html": "http://localhost:3000/index.html",
     "static/css/2.3c0b593e.chunk.css.map": "http://localhost:3000/static/css/2.3c0b593e.chunk.css.map",
     "static/css/main.7ef272a7.chunk.css.map": "http://localhost:3000/static/css/main.7ef272a7.chunk.css.map",
-    "static/js/2.e89de98c.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.e89de98c.chunk.js.LICENSE.txt",
+    "static/js/2.b82abc83.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.b82abc83.chunk.js.LICENSE.txt",
     "static/media/main.scss": "http://localhost:3000/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.df3a0ffb.js",
+    "static/js/runtime-main.6b2e4910.js",
     "static/css/2.3c0b593e.chunk.css",
-    "static/js/2.e89de98c.chunk.js",
+    "static/js/2.b82abc83.chunk.js",
     "static/css/main.7ef272a7.chunk.css",
-    "static/js/main.9ad42745.chunk.js"
+    "static/js/main.352e0544.chunk.js"
   ]
 }
