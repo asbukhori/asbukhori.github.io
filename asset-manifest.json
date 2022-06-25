@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://asbukhori.github.io/static/css/main.b3615f0a.chunk.css",
-    "main.js": "https://asbukhori.github.io/static/js/main.352e0544.chunk.js",
-    "main.js.map": "https://asbukhori.github.io/static/js/main.352e0544.chunk.js.map",
+    "main.js": "https://asbukhori.github.io/static/js/main.5648950e.chunk.js",
+    "main.js.map": "https://asbukhori.github.io/static/js/main.5648950e.chunk.js.map",
     "runtime-main.js": "https://asbukhori.github.io/static/js/runtime-main.2365796e.js",
     "runtime-main.js.map": "https://asbukhori.github.io/static/js/runtime-main.2365796e.js.map",
     "static/css/2.3c0b593e.chunk.css": "https://asbukhori.github.io/static/css/2.3c0b593e.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.3c0b593e.chunk.css",
     "static/js/2.b82abc83.chunk.js",
     "static/css/main.b3615f0a.chunk.css",
-    "static/js/main.352e0544.chunk.js"
+    "static/js/main.5648950e.chunk.js"
   ]
 }
